@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Actualmente trabajo para Shifta SAS como Software Engineer Trainee.
+- 🌱 En mis tiempos libres estoy aprendiendo a tomar desiciones respecto a la aplicacion de arquitecturas de backend dependiendo las necesidades de la aplicaciones, y la automatizacion de los procesos de integracion y distribucion continua. Tambien algo de xamarin.
+- ⚡ Tecnologias que manejo, HTML, CSS, Javascript/Typescript(Angular y Ionic), C#(ASP.NET Core) y Python (Django)
+- 📫 Mi contacto es mi perfil de linkedin https://www.linkedin.com/in/malcom-beyersdorf/
 ![](https://github.com/MalcomBeyersdorf/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/MalcomBeyersdorf/github-stats/blob/master/generated/languages.svg)
