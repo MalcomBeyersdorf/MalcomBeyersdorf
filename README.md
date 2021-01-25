@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - 🔭 Actualmente trabajo para Shifta SAS como Software Engineer.
 - 🌱 En mis tiempos libres estoy aprendiendo a tomar desiciones respecto a la aplicacion de arquitecturas de backend dependiendo las necesidades de la aplicaciones, y la automatizacion de los procesos de integracion y distribucion continua. Tambien haciendo un curso de Flutter.
 - ⚡ Tecnologias que manejo:
-* HTML, CSS, Javascript/Typescript
-* Angular 
-* Ionic 
-* Reactjs
-* C# / ASP.NET Core / Razor / Blazor / Xamarin
-* Python / Django
-* NodeJs / Express / Nextjs / NestJs
+  * HTML, CSS, Javascript/Typescript
+  * Angular 
+  * Ionic 
+  * Reactjs
+  * C# / ASP.NET Core / Razor / Blazor / Xamarin
+  * Python / Django
+  * NodeJs / Express / Nextjs / NestJs
 - 📫 Mi contacto es mi perfil de linkedin https://www.linkedin.com/in/malcom-beyersdorf/
 ![](https://github.com/MalcomBeyersdorf/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/MalcomBeyersdorf/github-stats/blob/master/generated/languages.svg)
