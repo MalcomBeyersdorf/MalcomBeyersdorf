@@ -1,4 +1,4 @@
-### Hola! soy Malcom Beyersdorf, tengo 24 años y estoy terminando la carreara de Analista de sistema.
+### Hola, soy Malcom Beyersdorf!
 <!--
 **MalcomBeyersdorf/MalcomBeyersdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Actualmente trabajo para Shifta SAS como Software Engineer.
-- 🌱 En mis tiempos libres estoy aprendiendo a tomar desiciones respecto a la aplicacion de arquitecturas de backend dependiendo las necesidades de la aplicaciones, y la automatizacion de los procesos de integracion y distribucion continua. Tambien haciendo un curso de Flutter.
+- 🔭 Actualmente trabajo como Software Engineer.
+- 🌱 En mis tiempos libres estoy aprendiendo a tomar desiciones respecto a la aplicacion de arquitecturas de backend dependiendo las necesidades de la aplicaciones, y la automatizacion de los procesos de integracion y distribucion continua.
+- ✨ Tambien estoy desarrolando una aplicacion multiplataforma con el stack MAIN Stack (Mongo, Angular, Ionic, Nest.js). Que espero sacar a mercado para el 2022
 - ⚡ Tecnologias que manejo:
   * HTML, CSS, Javascript/Typescript
   * Angular 
   * Ionic 
   * Reactjs
-  * C# / ASP.NET Core / Razor / Blazor / Xamarin
+  * C# / ASP.NET Core / Razor / Blazor
   * Python / Django
   * NodeJs / Express / Nextjs / NestJs
 - 📫 Mi contacto es mi perfil de linkedin https://www.linkedin.com/in/malcom-beyersdorf/
