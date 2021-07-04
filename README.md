@@ -181,7 +181,7 @@
 -->
  
  ![](https://github.com/MalcomBeyersdorf/git-stats/blob/master/generated/overview.svg)
- ![](https://github.com/MalcomBeyersdorf/git-stats/master/blob/generated/languages.svg)
+ ![](https://github.com/MalcomBeyersdorf/git-stats/blob/master/generated/languages.svg)
 
 </p>
 
