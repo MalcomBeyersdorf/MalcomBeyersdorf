@@ -180,8 +180,8 @@
 </a> 
 -->
  
- ![](https://github.com/MalcomBeyersdorf/git-stats/generated/overview.svg)
- ![](https://github.com/MalcomBeyersdorf/git-stats/generated/languages.svg)
+ ![](https://github.com/MalcomBeyersdorf/git-stats/blob/master/generated/overview.svg)
+ ![](https://github.com/MalcomBeyersdorf/git-stats/master/blob/generated/languages.svg)
 
 </p>
 
