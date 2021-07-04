@@ -179,6 +179,9 @@
 <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
 </a> 
 -->
+ 
+ ![](https://github.com/MalcomBeyersdorf/git-stats/generated/overview.svg)
+ ![](https://github.com/MalcomBeyersdorf/git-stats/generated/languages.svg)
 
 </p>
 
