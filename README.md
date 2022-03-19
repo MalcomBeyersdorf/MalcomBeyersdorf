@@ -3,13 +3,27 @@
 
 <!-- ### Pasate por mi website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles: -->
 
-- 🌱 Actualmente me encuentro aprendiendo **Golang y Flutter**
+- 👨‍💻 Software Engineer en [Matriz DMA](https://matriz.com.ar/) (wanna be Software Architect) 
 
-<!-- - 👨‍💻 Todo lo que necesitas saber de mi [My Website](https://chandrikadeb7.github.io/) -->
+- 🌱 Actualmente me encuentro desarrolando un proyecto personal en **Flutter** 
 
 - 📝 A veces escribo articulos [Medium](https://medium.com/@malcomgbugd)
 
-<!--
+- 📫 Mi contacto es mi perfil de linkedin https://www.linkedin.com/in/malcom-beyersdorf/
+
+- ⚡ Tecnologias con las que tuve la oportunidad de trabajar:
+  * HTML, CSS, Javascript/Typescript
+  * Angular, Reactjs
+  * Ionic, Xamarin, Flutter
+  * C# / ASP.NET Core / Razor / Blazor
+  * Python / Django / Flask
+  * NodeJs / Express / Nextjs / NestJs
+  * Go / Gin / GoKit / Gorilla
+
+
+ <!-- 
+## What are my featured projects:question::rocket:
+
 - ⚡ Tecnologias que manejo:
   * HTML, CSS, Javascript/Typescript
   * Angular 
@@ -18,9 +32,6 @@
   * C# / ASP.NET Core / Razor / Blazor
   * Python / Django
   * NodeJs / Express / Nextjs / NestJs
---> 
-- 📫 Mi contacto es mi perfil de linkedin https://www.linkedin.com/in/malcom-beyersdorf/
-
 <!-- BLOG-POST-LIST:START
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
@@ -46,7 +57,7 @@
 <a href="https://www.youtube.com/channel/UCZOZbzPYGYQV80BtVMqsRmg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codeher" height="30" width="40" /></a>
 </p>
 -->
-
+<!--
 <h3 align="left">Lenguajes y herramientas que se utilizar:</h3>
 <p align="left"> 
 
@@ -114,7 +125,7 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a> 
  
-<!--
+
 
 <a href="https://www.elastic.co" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
