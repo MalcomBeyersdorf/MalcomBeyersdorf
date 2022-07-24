@@ -3,7 +3,7 @@
 
 <!-- ### Pasate por mi website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles: -->
 
-- 👨‍💻 Software Engineer en [Matriz DMA](https://matriz.com.ar/) (wanna be Software Architect) 
+## - 👨‍💻 Software Engineer en [Matriz DMA](https://matriz.com.ar/) (wanna be Software Architect) 
 
 - 🌱 Actualmente me encuentro desarrolando un proyecto personal en **Flutter** 
 
