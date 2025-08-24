@@ -1,23 +1,24 @@
-<h1 align="center">Hola 👋, soy Malcom Beyersdorf</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Malcom Beyersdorf</h1>
+<h3 align="center">Swiss-Army Developer · Software | IA | Multistack</h3>
 
-<!-- ### Pasate por mi website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles: -->
+---
 
-- 🌱 Actualmente me encuentro desarrolando un proyecto personal en **Flutter** 
+- 🌐 Website: [www.malcom.com.ar](https://www.malcom.com.ar)  
+- 💼 LinkedIn: [Malcom Beyersdorf](https://www.linkedin.com/in/malcom-beyersdorf/)  
 
-- 📝 A veces escribo articulos [Medium](https://medium.com/@malcomgbugd)
+---
 
-- 📫 Mi contacto es mi perfil de linkedin https://www.linkedin.com/in/malcom-beyersdorf/
+### Sobre mí
+Soy un desarrollador **multistack** con enfoque en la construcción de soluciones escalables y de alto rendimiento.  
+Trabajo principalmente con **Flutter**, **Golang**, **Svelte** y **Inteligencia Artificial**, combinando eficiencia en el backend, interfaces modernas y automatización inteligente.  
 
-- ⚡ Tecnologias con las que tuve la oportunidad de trabajar:
-  * HTML, CSS, Javascript/Typescript
-  * Angular, Reactjs
-  * Ionic, Xamarin, Flutter
-  * C# / ASP.NET Core / Razor / Blazor
-  * Python / Django / Flask
-  * NodeJs / Express / Nextjs / NestJs
-  * Go / Gin / GoKit / Gorilla
+---
 
+### Tecnologías con las que trabajo
+- **Flutter** → Desarrollo multiplataforma nativo.  
+- **Golang** → Backend de alto rendimiento y microservicios.  
+- **Svelte** → Aplicaciones web rápidas y reactivas.  
+- **IA / ML** → Integración de modelos y automatización inteligente.  
 
  <!-- 
 ## What are my featured projects:question::rocket:
