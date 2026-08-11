@@ -91,6 +91,7 @@ I'm a **Software Engineer & Solution Architect** with 12+ years of experience (d
 - Add personal/open-source projects here.
 -->
 
+<!--
 ---
 
 ## GitHub Stats
@@ -100,7 +101,7 @@ I'm a **Software Engineer & Solution Architect** with 12+ years of experience (d
 ![Metrics](https://raw.githubusercontent.com/MalcomBeyersdorf/MalcomBeyersdorf/main/assets/metrics.svg)
 
 </div>
-
+-->
 <!--
 Fallback if self-generated metrics are ever unavailable:
 ![](https://github-readme-stats.vercel.app/api?username=malcombeyersdorf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=0D1117)
